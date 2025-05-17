@@ -12,7 +12,14 @@ PENETRATION TESTING TOOLKIT
 
 *MENTOR* - NEELA SANTOSH
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/89ce4b50-4052-47da-9909-aff2771028b1)
+
+![Image](https://github.com/user-attachments/assets/fd4cae53-7054-4745-a14e-5c98462f3642)
+
+----
 
 # 🛡️ Penetration Testing Toolkit
 
