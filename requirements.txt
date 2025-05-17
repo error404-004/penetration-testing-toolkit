@@ -1,0 +1,14 @@
+# Core HTTP/SSH functionality
+requests
+paramiko
+
+# Terminal output enhancements (optional but useful)
+colorama
+rich
+
+# Network and wireless tools
+scapy
+python-nmap
+
+# (Optional) If you use JSON pretty-printing or formatting, include:
+# simplejson   # (optional alternative to built-in json)
